@@ -14,3 +14,7 @@ end
 grocery_list.each do |item, number|
   puts"#{item}~#{number}"
 end
+
+
+
+puts "testing"
